@@ -1,0 +1,10 @@
+SpeechRecognition>=3.10
+PyAudio>=0.2.13
+pyttsx3>=2.90
+wikipedia>=1.4.0
+wolframalpha>=5.0.0
+requests>=2.31
+pywhatkit>=5.4
+pyautogui>=0.9.54
+ecapture>=0.0.1
+python-dotenv>=1.0
