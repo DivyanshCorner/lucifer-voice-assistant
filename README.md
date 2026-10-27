@@ -26,7 +26,7 @@ A voice-controlled personal assistant for Windows, written in Python. Say a comm
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/lucifer-voice-assistant.git
+git clone https://github.com/DivyanshCorner/lucifer-voice-assistant.git
 cd lucifer-voice-assistant
 python -m venv .venv
 .venv\Scripts\activate
